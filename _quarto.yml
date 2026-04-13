@@ -3,13 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Home"
+  title: "Vanessa Ragan"
   open-graph: true # https://quarto.org/docs/websites/website-tools.html#open-graph
   page-footer: "Made with ❤️ and Quarto"
   navbar:
     right:
-      - text: Home
-        href: index.qmd
+      - href: final_project.qmd
+        text: Final Project
+        #icon: megaphone
+    tools:
+      - icon: github
+        href: github.com
       
 format:
   html:
