@@ -7,10 +7,10 @@ about: # https://quarto.org/docs/websites/website-about.html
   links:
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/AzureWings123
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/vanessa-ragan-669422233/
 ---
 
 {{<lipsim 1>}}
