@@ -13,5 +13,10 @@ website:
       
 format:
   html:
+    backgroundcolor: "#eeffff"
+    fontcolor: "darkblue"
+    linkcolor: "black"
+    mainfont: "sarif"
+    fontsize: 20px
     theme: [cosmo, styles.scss]
 

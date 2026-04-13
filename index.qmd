@@ -4,6 +4,7 @@ subtitle: "Student | Computer Scientist| Applied Mathematician"
 image: profile.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
   template: trestles
+  image-shape: round
   links:
     - icon: github
       text: Github
@@ -13,7 +14,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/vanessa-ragan-669422233/
 ---
 
-{{<lipsim 1>}}
+{{< lipsum 1 >}}
 
 ## Education
 
