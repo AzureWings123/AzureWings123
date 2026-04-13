@@ -20,7 +20,7 @@ about: # https://quarto.org/docs/websites/website-about.html
 
 Fullerton College \| Fullerton, CA \| August 2018 - May 2021
 
-California State University, Fullerton \| Fullerton, CA \| May 2021 - present
+California State University, Fullerton \| Fullerton, CA \| August 2021 - present
 
 ## Experience
 
@@ -28,4 +28,4 @@ Thai Specialty \| Waitress \| August 2018 - present
 
 Fullerton College \| Computer Science and Applied Mathematics Tutor \| August 2023 - present
 
-DataAnnotation \| AI Trainer and Tester \| August 2018 - present
+DataAnnotation \| AI Trainer and Tester \| July 2025 - present
