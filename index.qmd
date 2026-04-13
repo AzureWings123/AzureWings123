@@ -1,10 +1,9 @@
 ---
-title: "Alicia"
-subtitle: "Data Scientist"
-# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
-image: profile.jpg
+title: "Vanessa Ragan"
+subtitle: "Student | Computer Scientist| Applied Mathematician"
+image: profile.jpeg
 about: # https://quarto.org/docs/websites/website-about.html
-  template: jolla
+  template: trestles
   links:
     - icon: github
       text: Github
@@ -14,12 +13,18 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://linkedin.com
 ---
 
-A little bit about me and my life.
+{{<lipsim 1>}}
 
 ## Education
 
-University of XYZ, City \| Location \| Sept 20XX - June 20XX
+Fullerton College \| Fullerton, CA \| August 2018 - May 2021
+
+California State University, Fullerton \| Fullerton, CA \| May 2021 - present
 
 ## Experience
 
-Workplace \| Job title \| April 20XX - present
+Thai Specialty \| Waitress \| August 2018 - present
+
+Fullerton College \| Computer Science and Applied Mathematics Tutor \| August 2023 - present
+
+DataAnnotation \| AI Trainer and Tester \| August 2018 - present
