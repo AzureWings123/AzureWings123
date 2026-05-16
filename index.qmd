@@ -14,7 +14,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/vanessa-ragan-669422233/
 ---
 
-{{< lipsum 1 >}}
+A soon to be graduate of Applied Mathematics and Computer Science at California State University, Fullerton. I have an interest in data analysis and visualization.
 
 ## Education
 
